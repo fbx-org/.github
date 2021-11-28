@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
@@ -20,14 +20,11 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Log, video and screenshots**
+If applicable, add flight logs, videos and screenshots to help explain your problem.
 
 **Version**
 The version of the software/hardware affected by the bug.
-
-**Log**
-If applicable, add a log file of a session where the problem manifested itself.
 
 **Additional context**
 Add any other context about the problem here.
